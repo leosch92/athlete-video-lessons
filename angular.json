@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "athlete-video-lessons"
+    }
+  },
+  "defaultProject": "athlete-video-lessons",
+  "cli": {
+    "analytics": "dfd4cf2b-3a6a-455f-8997-28314cf42b9f"
+  }
 }
